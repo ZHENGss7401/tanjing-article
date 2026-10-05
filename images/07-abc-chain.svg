@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1050" viewBox="0 0 800 1050">
+<rect width="800" height="1050" fill="#f4efe5"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L9 5L0 10" fill="none" stroke="#77736c" stroke-width="1.5"/></marker></defs>
+<g font-family="Microsoft YaHei, PingFang SC, sans-serif" fill="#302e2a">
+<text x="50" y="70" font-size="30" letter-spacing="2" fill="#77736c">文章中的 ABC 链条</text>
+<text x="50" y="136" font-size="43" font-weight="600">同一件事，不同解读</text>
+<rect x="150" y="190" width="500" height="165" rx="8" fill="#ebe5d9" stroke="#bcb5a9"/>
+<text x="400" y="244" text-anchor="middle" font-size="31" fill="#77736c">A · 事件</text>
+<text x="400" y="308" text-anchor="middle" font-size="39">报告被指出问题</text>
+<rect x="50" y="450" width="330" height="175" rx="8" fill="#eee8df" stroke="#bcb5a9"/>
+<text x="80" y="503" font-size="31" fill="#77736c">B · 解读一</text>
+<text x="80" y="561" font-size="36">我整个人</text><text x="80" y="606" font-size="36">被否定了</text>
+<rect x="420" y="450" width="330" height="175" rx="8" fill="#f4e4da" stroke="#b3442f"/>
+<text x="450" y="503" font-size="31" fill="#b3442f">B · 解读二</text>
+<text x="450" y="561" font-size="36">这一页</text><text x="450" y="606" font-size="36">需要调整</text>
+<rect x="50" y="705" width="330" height="175" rx="8" fill="#eee8df" stroke="#bcb5a9"/>
+<text x="80" y="758" font-size="31" fill="#77736c">C · 反应</text>
+<text x="80" y="816" font-size="36">反复纠结</text><text x="80" y="861" font-size="36">自我怀疑</text>
+<rect x="420" y="705" width="330" height="175" rx="8" fill="#f4e4da" stroke="#b3442f"/>
+<text x="450" y="758" font-size="31" fill="#b3442f">C · 反应</text>
+<text x="450" y="816" font-size="36">具体修改</text><text x="450" y="861" font-size="36">继续推进</text>
+<g fill="none" stroke="#77736c" stroke-width="2.5" marker-end="url(#arrow)"><path d="M400 355V395H215V431"/><path d="M400 395H585V431"/><path d="M215 625V686"/><path d="M585 625V686"/></g>
+<path d="M50 935H750" stroke="#c8c0b5"/>
+<text x="50" y="996" font-size="33" fill="#b3442f">先看见 B，再决定怎样回应。</text>
+</g></svg>
